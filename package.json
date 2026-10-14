@@ -1,0 +1,12 @@
+{
+  "name": "exercicio5-filmes",
+  "version": "1.0.0",
+  "description": "Exercício 5 - Análise de avaliações de filmes (QA com Node.js)",
+  "main": "src/filmes.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "type": "commonjs",
+  "author": "Leandro Bagatta",
+  "license": "MIT"
+}
